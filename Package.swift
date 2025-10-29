@@ -25,7 +25,7 @@ let package = Package(
         ),
         .binaryTarget(
             name: "WireGuardFoundation",
-            url: "https://github.com/StarProxima/amneziawg-apple/releases/download/1.1.0/WireGuardFoundation.xcframework.zip",
+            url: "https://github.com/StarProxima/amneziawg-apple/releases/download/1.3.0/WireGuardFoundation.xcframework.zip",
             checksum: "c30371789290f4a07ad7af3d31623332bc10f3eede398432aaad89496e39f0c7"
         )
     ]
